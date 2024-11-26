@@ -1,0 +1,5 @@
+load_from:
+  - grpc_server:
+      host: code_location
+      port: 4000
+      location_name: "docker-compose-jobs"

@@ -1,0 +1,4 @@
+storage:
+  postgres:
+    postgres_url:
+      env: DB_CONNECTION_STRING
